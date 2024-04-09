@@ -17,12 +17,10 @@
 
 # 📈 My Stats
 
-<a href="https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true"</a>
-<p></p>  
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian" width=466px />
-</a>
+<p align=center ><a href="https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true" width="275px"<br> </a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian" width="250px"/>
+</a></p>
 
 <!---
 cinthiagon/cinthiagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
