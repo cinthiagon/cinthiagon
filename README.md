@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on insighful solutions that have meaningful impact on society.
 - 📫 Reach me on www.linkedin.com/in/cinthia-g-8145532ab.
 - 😄 Pronouns: she / her.
-- ⚡ Fun fact: as ASD level 1, I have a meticulous attention to detail and have been hyperfocused on learning all about data.
+- ⚡ Fun fact: as ASD level 1, I have a meticulous attention to detail and have been hyperfocused on learning everything about data.
 
 <!---
 cinthiagon/cinthiagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
