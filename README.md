@@ -17,9 +17,7 @@
 
 # My Stats
 
-![cinthiagon's Stats](https://github-readme-stats.vercel.app/api?username=cinthiagon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![cinthiagon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cinthiagon&theme=vue-dark&hide_border=true)
-![cinthiagon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![cinthiagon's Stats](https://github-readme-stats.vercel.app/api?username=cinthiagon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![cinthiagon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cinthiagon&theme=vue-dark&hide_border=true) ![cinthiagon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 <!---
 cinthiagon/cinthiagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
