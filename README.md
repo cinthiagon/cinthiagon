@@ -15,10 +15,13 @@
           
 
 
-# My Stats
+# 📈 My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true"
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian" />
+</a>
 
 <!---
 cinthiagon/cinthiagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
