@@ -2,7 +2,7 @@
 
 - 🤓 I’m Cinthia Gonçalez
 - 👀 I’m interested in Data Science & Analytics and Full Stack dev.
-- 💻 I’m currently learning SQL & JavaScript. 
+- 💻 I’m currently learning JavaScript & React. 
 - 💞️ I’m looking to collaborate on insighful solutions that have meaningful impact on society.
 - 📫 Reach me on [Linkedin](www.linkedin.com/in/cinthia-g-8145532ab).
 - 🏳️‍🌈 Pronouns: she / her.
@@ -17,7 +17,8 @@
 
 # My Stats
 
-![cinthiagon's Stats](https://github-readme-stats.vercel.app/api?username=cinthiagon&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![cinthiagon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cinthiagon&theme=vue-dark&hide_border=true) ![cinthiagon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 cinthiagon/cinthiagon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
