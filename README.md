@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning SQL & JavaScript. 
 - 💞️ I’m looking to collaborate on insighful solutions that have meaningful impact on society.
 - 📫 Reach me on www.linkedin.com/in/cinthia-g-8145532ab.
-- 😄 Pronouns: she / her / they
+- 😄 Pronouns: she / her
 - ⚡ Fun fact: as ASD level 1, I have a meticulous attention to detail and have been hyperfocused on learning all about data.
 
 <!---
