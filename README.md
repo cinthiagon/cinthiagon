@@ -1,7 +1,7 @@
 # 👋 Hello world!
 
 - 🤓 I’m Cinthia Gonçalez
-- 👀 I’m interested in Data Science & Analytics and Full Stack dev.
+- 👀 I’m interested in Data Science, Analytics & Full Stack dev.
 - 💻 I’m currently learning JavaScript & React. 
 - 💞️ I’m looking to collaborate on insighful solutions that have meaningful impact on society.
 - 📫 Reach me on [Linkedin](www.linkedin.com/in/cinthia-g-8145532ab).
