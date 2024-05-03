@@ -1,12 +1,12 @@
 # 👋 Hello world!
 
-- 🤓 I’m Cinthia Gonçalez, a professional with 10+ years' experience in OSINT, analytics & fraud detection.
-- 👀 I’m interested in Data Science, Analytics & recently decided to study Full Stack dev.
-- 💻 I’m currently learning JavaScript & React. 
+- 🤓 I’m Cinthia Gonçalez, a professional with 10+ years' experience in OSINT, analytics & criminal investigation.
+- 👀 I’m interested in Data Science, AI & I'm about to start a Software Engineering undergrad.
+- 💻 I’m currently learning JavaScript. 
 - 💞️ I’m looking to collaborate on insighful solutions that have meaningful impact on society.
-- 📫 Reach me on [Linkedin](www.linkedin.com/in/cinthia-g-8145532ab).
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/cinthiagon/).
 - 🏳️‍🌈 Pronouns: she / her.
-- 🧩 Fun fact: as ASD level 1, I have a meticulous attention to detail and have been hyperfocused on learning everything about data.
+- 🧩 Fun fact: as ASD level 1 + exceptional abilities, I have a meticulous attention to detail and have been hyperfocused on learning everything about data.
 
 
 # ⚡ My Skills
