@@ -1,12 +1,12 @@
 # 👋 Hello world!
 
-- 🤓 I’m Cinthia Gonçalez, a professional with 10+ years' experience in OSINT, analytics & criminal investigation.
-- 👀 I’m interested in Data Science, AI & I'm about to start a Software Engineering undergrad.
-- 💻 I’m currently learning JavaScript. 
+- 🤓 I’m Cinthia Gonçalez, a professional with 10+ years' experience in OSINT & criminal investigation.
+- 👀 I’m interested in Data Science, AI & Back-End.
+- 💻 I’m currently doing a MBA on Data Science & Analytics. 
 - 💞️ I’m looking to collaborate on insighful solutions that have meaningful impact on society.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/cinthiagon/).
 - 🏳️‍🌈 Pronouns: she / her.
-- 🧩 Fun fact: as ASD level 1 + exceptional abilities, I have a meticulous attention to detail and have been hyperfocused on learning everything about data.
+- 🧩 Fun fact: as ASD level 1 (+ exceptional abilities), I have a meticulous attention to detail and have been hyperfocused on learning everything about data.
 
 
 # ⚡ My Skills
