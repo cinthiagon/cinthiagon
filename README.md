@@ -5,6 +5,7 @@
 - 💻 I’m currently doing a MBA on Data Science & Analytics. 
 - 💞️ I’m looking to collaborate on insighful solutions that have meaningful impact on society.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/cinthiagon/).
+- 📈 Check out my [Portfolio](https://cinthiagoncalez.w3spaces.com/).
 - 🏳️‍🌈 Pronouns: she / her.
 - 🧩 Fun fact: as ASD level 1 (+ exceptional abilities), I have a meticulous attention to detail and have been hyperfocused on learning everything about data.
 
