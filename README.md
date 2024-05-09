@@ -2,7 +2,7 @@
 
 - 🤓 I’m Cinthia Gonçalez, a professional with 10+ years' experience in OSINT & criminal investigation.
 - 👀 I’m interested in Data Science, AI & Back-End.
-- 💻 I’m currently doing a MBA on Data Science & Analytics. 
+- 💻 I’m currently doing an MBA on Data Science & Analytics. 
 - 💞️ I’m looking to collaborate on insighful solutions that have meaningful impact on society.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/cinthiagon/).
 - 📈 Check out my [Portfolio](https://cinthiagoncalez.w3spaces.com/).
