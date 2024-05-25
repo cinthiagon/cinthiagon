@@ -20,7 +20,7 @@
 
 <p align="left" ><a href="https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=cinthiagon&count_private=true&theme=prussian&show_icons=true" width="350px"<br> </a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian">
-<!--     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian" width="300px"/> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cinthiagon&theme=prussian" width="300px"/>
 </a></p>
 
 <!---
