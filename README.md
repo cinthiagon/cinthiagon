@@ -1,7 +1,7 @@
 # 👋 Hello world!
 
 - 🤓 I’m Cinthia Gonçalez, a professional with 10+ years' experience in Data Analysis, OSINT & criminal investigation.
-- 👀 I’m interested in Data Science, ML, Data Engineering and Cyber Security.
+- 👀 I’m interested in Data Science, AI, ML, Data Engineering and Cyber Security.
 - 💻 I’m currently doing an MBA in Software Engineering. 
 - 💞️ I’m looking to collaborate on insighful solutions that have meaningful impact on society.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/cinthiagon/).
