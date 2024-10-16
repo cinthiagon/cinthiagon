@@ -4,7 +4,7 @@
 - 📚 I'm currently pursuing a dregree in Systems Analysis and Development.
 - 💡 I'm interested in Fullstack Dev, DataOps and Data Engineering.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/cinthiagon/).
-- 📈 Check out my [Portfolio](https://cinthiagon.github.io/my_website/).
+- 📈 Check out my [Portfolio](https://www.datascienceportfol.io/cinthiagon).
 - 🏳️‍🌈 Pronouns: she / her.
 - 🧩 Fun fact: as ASD level 1 (+ exceptional abilities), I have a meticulous attention to detail and have been hyperfocused on learning everything about data.
 
