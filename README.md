@@ -6,7 +6,6 @@
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/cinthiagon/).
 - 📈 Check out my [Portfolio](https://www.datascienceportfol.io/cinthiagon).
 - 🏳️‍🌈 Pronouns: she / her.
-- 🧩 Fun fact: as ASD level 1 (+ exceptional abilities), I have a meticulous attention to detail and have been hyperfocused on learning everything about data.
 
 
 # ⚡ My Skills
