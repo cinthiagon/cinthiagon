@@ -2,7 +2,7 @@
 
 - 🤓 I’m Cinthia Gonçalez, a professional with 10+ years' experience in Data Analysis & DataViz.
 - 📚 I'm currently pursuing a dregree in Systems Analysis and Development.
-- 💡 I'm interested in AI, Promot Engineering, and Data Analytics.
+- 💡 I'm interested in AI, Prompt Engineering and Data Analytics.
 - 📫 Reach me on [Linkedin](https://www.linkedin.com/in/cinthiagon/).
 - 📈 Check out my [Portfolio](https://www.datascienceportfol.io/cinthiagon).
 - 🏳️‍🌈 Pronouns: she / her.
